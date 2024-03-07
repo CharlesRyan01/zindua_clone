@@ -1,0 +1,60 @@
+h1{
+    color: red;
+}
+.heading{
+    display: flex;
+    padding: 30px;
+    background-color: beige;
+}
+.page span{
+    padding: 30px;
+}
+
+.left{
+    padding-top: 30px;
+    padding-right: 10px;
+}
+.page{
+    padding: 30px;
+}
+.left span{
+    padding: 30px;
+}
+.one{
+    color: red;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.body2 img{
+    height: 600px;
+    width: 600px;
+    padding-left: 5cm;
+}
+.two{
+    font-size: xx-large;
+    font-weight: bold;
+    color: black;
+}
+.button2{
+    background-color: red;
+    border-radius: 5%;
+    color: white;
+    height: 1cm;
+    width: 5cm;
+}
+.button3{
+    background-color: red;
+    color: white;
+}
+.body{
+    display: flex;
+}
+.three{
+    font-size: large;
+}
+.button-1{
+    background-color: red;
+    height: 1cm;
+    width: 5cm;
+    color: white;
+}
